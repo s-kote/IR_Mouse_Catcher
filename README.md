@@ -1,1 +1,1 @@
-# IR_Mouse_Catcher
+# IR Mouse Catcher
